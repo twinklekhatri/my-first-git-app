@@ -1,2 +1,3 @@
 hello i am twinkle khatri,
-siddharth patidar is software developer
+siddharth patidar is software developer.
+twinkle khatri is learning javascript language.
